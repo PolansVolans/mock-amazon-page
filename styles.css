@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  width: 1050px;
+  padding: 40px;
+  display: flex;
+}
+
+.crumbs {
+  display: flex;
+  font-size: 13px;
+  color: #565959;
+}
+
+.main-img {
+  box-shadow: 0px 2px 5px lightgray;
+  width: 400px;
+  display: flex;
+  padding: 20px;
+}
+.descr {
+  display: block;
+  padding: 20px;
+  margin-left: 40px;
+}
+
+.title {
+  font-weight: lighter;
+}
+
+.rate {
+  width: 100px;
+}
+
+.subtitle {
+  font-size: 15px;
+}
+
+.paragraph {
+  font-size: 15px;
+  line-height: 20px;
+  margin-bottom: 15px; /* between paragraphs */
+}
